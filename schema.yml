@@ -18,8 +18,7 @@ sources:
 
       - name: prod_filiere_regionale_mensuelle_renamed
         identifier: prod_filiere_regionale_mensuelle_renamed
-      - name: conso_prod__2013_2024_30min
-        identifier: conso_prod__2013_2024_30min
+
 #models:
   #- name:
   #  description: 
