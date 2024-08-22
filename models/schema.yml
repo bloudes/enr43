@@ -7,6 +7,16 @@ sources:
       - name: conso_prod_2013_2023_30min_renamed
         identifier: conso_prod_2013_2023_30min_renamed
 
+<<<<<<< HEAD
+      - name: eco2mix_regional_alldata
+        identifier: eco2mix_regional_alldata
+
+      - name: production_regionale_mensuelle_filiere
+        identifier: production_regionale_mensuelle_filiere
+
+
+        
+=======
       - name: conso_prod_2023_2024_15min_renamed
         identifier: conso_prod_2023_2024_15min_renamed
     
@@ -24,4 +34,5 @@ sources:
   #- name:
   #  description: 
   #  columns:
+>>>>>>> f34abffbc06f18fbe825a49f069a90833907ac67
       
