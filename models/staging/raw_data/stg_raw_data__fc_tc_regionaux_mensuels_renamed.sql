@@ -9,7 +9,7 @@ source as (
 renamed as (
 
     select
-        mois,
+        CAST(mois AS DATE) AS mois,
         code_insee_region,
         region,
         fc_moyen_mensuel_hydraulique,
