@@ -7,4 +7,12 @@ sources:
       - name: prod_regionale_annuelle_enr
         identifier: prod_regionale_annuelle_enr
 
-    # Below, created others view from other raw dataset
+      - name: eco2mix_regional_alldata
+        identifier: eco2mix_regional_alldata
+
+      - name: production_regionale_mensuelle_filiere
+        identifier: production_regionale_mensuelle_filiere
+
+
+        
+      
